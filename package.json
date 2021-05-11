@@ -1,0 +1,24 @@
+{
+  "name": "TDD-practice",
+  "version": "1.0.0",
+  "description": "Practice unit testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minho-sama/TDD-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minho-sama/TDD-practice/issues"
+  },
+  "homepage": "https://github.com/minho-sama/TDD-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.1",
+    "jest": "^26.6.3"
+  }
+}
