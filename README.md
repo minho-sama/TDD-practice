@@ -1,2 +1,2 @@
 # TDD-practice
-Practice unit testing with Jest
+Practice test-driven development with Jest
